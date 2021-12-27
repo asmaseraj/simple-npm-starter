@@ -1,3 +1,6 @@
+# Project description
+tic tac toe game with react and material UI
+
 # Requirement
 node.js installed.
 
@@ -6,14 +9,5 @@ node.js installed.
 ## install npm modules
 > npm install
 
-## install tsd
-download tsd(typescript definition) files.
-> npm run tsd
 
-## run dev mode (watch)
-> npm run start
 
-# References
-[krasimir/react-webpack-starter](https://github.com/krasimir/react-webpack-starter)
-
-[kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit)
